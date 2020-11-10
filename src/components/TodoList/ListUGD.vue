@@ -184,7 +184,6 @@ export default {
     data() {
         return {
             search: null,
-            searchp: "All Priority",
             adding: true,
             edititem: null,
             dialog: false,
