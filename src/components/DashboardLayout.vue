@@ -36,7 +36,7 @@ export default {
 	name: "Dashboard",
 	data() {
 		return {
-			items: [{ title: "Dashboard", to: "/" }, { title: "GD", to: "/gd" }]
+			items: [{ title: "Dashboard", to: "/" }, { title: "GD", to: "/gd" }, { title: "Unguided", to: "/ugd"}]
 		};
 	}
 };
